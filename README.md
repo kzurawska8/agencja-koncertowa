@@ -6,31 +6,31 @@ artystach, klientach, biletach oraz przychodach związanych z organizacją wydar
 ## Encje i ich atrybuty
 
 ### Koncert
-    Atrybuty: ID, nazwa, data wydarzenia, godzina
+Atrybuty: ID, nazwa, data wydarzenia, godzina
 
 ### Miejsce koncertu
-    Atrybuty: ID, miasto, nazwa obiektu
+Atrybuty: ID, miasto, nazwa obiektu
 
 ### Artysta
-    Atrybuty: ID, imię, nazwisko
+Atrybuty: ID, imię, nazwisko
 
 ### Zastępstwo
-    Atrybuty: ID, imię, nazwisko, data zastępstwa
+Atrybuty: ID, imię, nazwisko, data zastępstwa
 
 ### Bilet
-    Atrybuty: ID, typ, cena, data sprzedaży
+Atrybuty: ID, typ, cena, data sprzedaży
 
 ### Klient
-    Atrybuty: nr, imię, nazwisko, e-mail
+Atrybuty: nr, imię, nazwisko, e-mail
 
 ### Przychód
-    Atrybuty: ID, opis, kwota
+Atrybuty: ID, opis, kwota
 
 ### Miejsce zamieszkania
-    Atrybuty: nazwa miasta
+Atrybuty: nazwa miasta
 
 ### Rodzaj muzyki
-    Atrybuty: nazwa
+Atrybuty: nazwa
 
 ## Przykładowe zapytania
 
