@@ -1,6 +1,3 @@
-SET client_encoding TO 'UTF-8';
-CREATE LANGUAGE plpgsql;
-
 -- Wyzwalacz przy dodaniu nowego koncertu
 CREATE FUNCTION powiadomienie_nowy_koncert() 
     RETURNS TRIGGER AS $$
